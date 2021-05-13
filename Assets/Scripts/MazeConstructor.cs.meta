@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1b681da0dd9ebad4db0a2f2de9e1512c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mazeMat1: {instanceID: 0}
+  - mazeMat2: {instanceID: 0}
+  - startMat: {instanceID: 0}
+  - treasureMat: {instanceID: 0}
+  - plusFivePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
